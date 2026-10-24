@@ -1,0 +1,10 @@
+CSGen paper-aligned source package
+
+The training entry point is derived from the Hugging Face Diffusers SD3
+ControlNet training example, Copyright 2025 The HuggingFace Inc. team, under
+the Apache License 2.0. LICENSE reproduces that upstream license. This notice
+does not assign a new license to project-specific code; the repository owner
+should confirm the project's release license before publication.
+
+Stable Diffusion 3.5 weights are not included. Their separate model license
+and access terms continue to apply.

@@ -1,0 +1,15 @@
+accelerate>=1.2
+datasets>=3.0
+diffusers @ git+https://github.com/huggingface/diffusers.git@11a3284cee024bfff017408b303d18e88981d2ea
+huggingface-hub>=0.27
+numpy>=1.26
+packaging>=24.0
+pillow>=10.0
+protobuf>=4.25
+safetensors>=0.4
+sentencepiece>=0.2
+tensorboard>=2.16
+torch>=2.4
+torchvision>=0.19
+transformers>=4.48
+tqdm>=4.66
